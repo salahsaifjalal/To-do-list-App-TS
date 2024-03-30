@@ -1,0 +1,12 @@
+{
+  "name": "to-do-list-app-ts",
+  "version": "1.0.0",
+  "description": "This is a To-do-list App, code in TS",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salahuddin Muhammad",
+  "license": "MIT"
+}
