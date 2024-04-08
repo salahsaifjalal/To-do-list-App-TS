@@ -1,5 +1,5 @@
-import inquirer from "inquirer"
-import chalk from "chalk"
+import inquirer from "inquirer";
+import chalk from "chalk";
 
 console.log(chalk.bold.bgMagentaBright("This is a CLI based to-do-list App "));
 let toDoList = [];
@@ -16,4 +16,5 @@ const userQuestionAnswer = await inquirer.prompt([
 
 toDoList.push(userQuestionAnswer.userQuestion);
 
-//console.log(chalk.bold.bgMagentaBright`toDoList`);
+//console.log(chalk.bold.bgMagentaBright("toDoList"));
+console.log(toDoList)
