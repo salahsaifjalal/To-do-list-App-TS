@@ -1,6 +1,6 @@
 {
   "name": "to-do-list-app-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a To-do-list App, code in TS",
   "main": "main.js",
   "type": "module",
